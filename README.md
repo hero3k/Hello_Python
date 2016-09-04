@@ -1,2 +1,2 @@
 # Hello_Python
-my py record
+Life is short python either
